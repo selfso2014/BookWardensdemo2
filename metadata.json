@@ -1,0 +1,7 @@
+{
+  "name": "The Book Wardens: AI Reading RPG",
+  "description": "A gamified reading experience that uses AI and eye-tracking simulations to turn books into dungeons, improving literacy through RPG-style progression, insights, and villain battles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
